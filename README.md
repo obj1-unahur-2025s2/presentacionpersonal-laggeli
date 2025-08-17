@@ -4,10 +4,10 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
-
+- Mi nombre es: Elisa ⟢˚₊‧♡
+- Tengo 19 años
+- Vivo en José C. Paz, Buenos Aires
 
 ### Otra Información
 - Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Tengo una gatita que se llama Kiki 𓏲 ࣪₊♡𓂃
